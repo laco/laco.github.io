@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
+
+
+You can find me on
+[GitHub](https://www.github.com/laco/),
+[Twitter](https://twitter.com/a_laco/) or
+[LinkedIn](https://www.linkedin.com/in/andrasi/).
